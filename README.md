@@ -2,7 +2,7 @@
 
 This simple web app will convert any text you write to markdown.
 
-Click [here](text-to-md.netlify.app) to view in your browser
+Click [here](https://text-to-md.netlify.app/) to view in your browser
 
 Quick start:
 
